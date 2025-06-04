@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        Update JS-Tools 🔲
+// @name        Update JS-Tools
 // @namespace        http://tampermonkey.net/
 // @version        0.1
 // @description        スクリプトツール一覧表からスクリプトツールをアップデート
